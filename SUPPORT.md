@@ -18,7 +18,7 @@ We're a small team shipping a big product. We prioritize in this order:
 
 Self-hosting OpenLane and need guaranteed response times, migration help, or a private Slack channel? Enterprise subscriptions include SSO/SCIM, audit retention, EU data residency, and support SLAs.
 
-Contact **hello@openlane.dev**.
+Contact `hello@princedotdev.is-a.bot`.
 
 ## Reporting a vulnerability
 

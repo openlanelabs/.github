@@ -32,7 +32,7 @@ Requirements: Go 1.22+, Node 20+, Docker. Nothing else.
 
 ## Repo layout
 
-```
+```text
 apps/web/          Next.js — internal app + customer portal (no business logic)
 apps/api/          Go Chi REST + webhooks + MCP
 apps/worker/       Go River jobs + agent runners
@@ -56,6 +56,7 @@ docs/              spec + ADRs
 ## Code review expectations
 
 Reviewers check, in order:
+
 1. **Correctness** — does it do what the issue says, including edge cases?
 2. **Security** — RLS on new tables, authz checks, no IDOR, sanitized inputs
 3. **API contract** — OpenAPI updated, no breaking change without `/v2` discussion
