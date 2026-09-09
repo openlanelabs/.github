@@ -1,0 +1,7 @@
+# Default owners — everything routes through maintainers first
+*               @openlanelabs/core
+
+# Security-sensitive areas need core review, always
+/db/            @openlanelabs/core
+/packages/contracts/ @openlanelabs/core
+.github/         @openlanelabs/core
