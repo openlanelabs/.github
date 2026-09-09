@@ -1,0 +1,10 @@
+// Rationale: org profile READMEs legitimately use HTML alignment blocks
+// and long table rows. Everything else stays markdownlint-default.
+{
+  "config": {
+    "default": true,
+    "MD013": false,  // line_length — tables and long links in profile README
+    "MD033": false,  // no-inline-html — <div align="center"> is intentional
+    "MD041": false   // first-line-heading — profile READMEs start with ## heading
+  }
+}

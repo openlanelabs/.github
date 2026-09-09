@@ -7,6 +7,7 @@ We are committed to a harassment-free experience for everyone, regardless of age
 ## Our standards
 
 **Positive behavior:**
+
 - Demonstrating empathy and kindness
 - Being respectful of differing opinions and skill levels
 - Giving and gracefully accepting constructive feedback
@@ -14,6 +15,7 @@ We are committed to a harassment-free experience for everyone, regardless of age
 - Focusing on what is best for the community
 
 **Unacceptable behavior:**
+
 - Harassment of any kind
 - Trolling, insulting, or derogatory comments; personal/political attacks
 - Public or private harassment
@@ -31,7 +33,7 @@ Applies in all community spaces (repo, discussions, chats under the org) and whe
 
 ## Reporting
 
-Report to **conduct@openlane.dev**. All reports are reviewed and investigated with confidentiality. Retaliation against reporters is itself a violation.
+Report to `conduct@princedotdev.is-a.bot`. All reports are reviewed and investigated with confidentiality. Retaliation against reporters is itself a violation.
 
 ## Attribution
 

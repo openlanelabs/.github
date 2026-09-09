@@ -11,9 +11,10 @@
 
 **Please do not open public issues for security vulnerabilities.**
 
-Email **security@openlane.dev** (PGP key published at `https://openlane.dev/.well-known/pgp.txt` once live).
+Email `security@princedotdev.is-a.bot` (PGP key published at the project domain once announced).
 
 Include:
+
 - Type of issue (XSS, IDOR, RLS bypass, SSRF, injection, auth flaw, etc.)
 - Full paths of affected files + reproduction steps
 - Potential impact, including how an attacker might exploit it
@@ -22,6 +23,7 @@ Include:
 ### What to expect
 
 - Acknowledgement within **48 hours**
+
 - Assessment + severity rating within **5 business days**
 - Fix timeline based on severity:
   - **Critical** (RLS bypass, auth bypass, RCE): patch within 7 days
@@ -32,11 +34,13 @@ Include:
 ## Scope
 
 In scope:
+
 - `openlanelabs/openlane` and all first-party code
 - Self-hosted deployment defaults we ship (docker-compose, Helm)
 - Our published packages and container images
 
 Out of scope:
+
 - Hosted cloud instances — report those to the same address but under your tenant SLA
 - Attacks requiring physical access or compromised admin credentials
 - Volume-based attacks (DoS) on our own infrastructure
